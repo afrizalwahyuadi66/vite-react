@@ -177,7 +177,7 @@ const Services = () => {
 
                 {/* CTA Button */}
                 <a
-                  href="tel:0877-3887-6192"
+                  href="https://wa.me/6287738876192"
                   className={`inline-flex items-center space-x-2 bg-gradient-to-r ${service.color} text-white px-6 py-3 rounded-full font-semibold hover:shadow-lg transform hover:scale-105 transition-all duration-300`}
                 >
                   <Phone className="h-5 w-5" />
